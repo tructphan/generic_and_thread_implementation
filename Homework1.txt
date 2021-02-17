@@ -1,0 +1,3 @@
+Make the Measurable interface into a generic class. Provide a static method that returns
+the largest element of an ArrayList<T>, provided that the elements are instances of
+Measurable<T>. Be sure to return a value of type T.

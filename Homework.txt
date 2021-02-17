@@ -1,0 +1,3 @@
+Write a program WordCount that counts the words in one or more files. Start a new thread
+for each file. Also, the last active thread also prints a combined count. Use locks to protect the
+combined word count and a counter of active threads.
